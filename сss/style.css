@@ -53,6 +53,8 @@ nav h3{
     display: block;
     position: absolute;
     transition: all 0.3s;
+    left: 50%;
+    margin-left:-20px;
 }
 .hamburger span:nth-child(1){
     top: 15px;
